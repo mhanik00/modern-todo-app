@@ -63,6 +63,14 @@ button{
     border-radius: 40px;
   
 }
+@media screen and (max-width:600px) {
+    .row{
+        padding-left: 2px;
+    }
+    .button{
+        padding: 10px 20px;
+    }
+}
 
 ul li {
     list-style: none;
